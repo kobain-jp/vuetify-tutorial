@@ -3,9 +3,11 @@
 マテリアルデザインを実現するvuetify利用したログインページの作成
 
 そもそもvuetifyとは？
+
 https://vuetifyjs.com/ja/
 
 マテリアルデザインまでの歴史
+
 https://qiita.com/nogson/items/804dd3a879f482fb7018
 
 
