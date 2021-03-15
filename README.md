@@ -1,9 +1,25 @@
 # vuetify-tutorial
 
-Loginページを作ろう
+マテリアルデザインを実現するvuetify利用したログインページの作成
+
+そもそもvuetifyとは？
+https://vuetifyjs.com/ja/
+
+マテリアルデザインまでの歴史
+https://qiita.com/nogson/items/804dd3a879f482fb7018
 
 
-# ファイルを作ろう
+# 今回実装するログイン画面
+
+今回のゴール
+
+https://kobain-jp.github.io/vuetify-tutorial/login.html
+
+参考までにbootstrapを利用したログイン画面
+
+https://getbootstrap.jp/docs/4.3/examples/sign-in/
+
+# ファイルの作成
 
 ```
 vuetify-turorial
@@ -13,6 +29,11 @@ vuetify-turorial
 ```
 
 # 必要なライブラリの読み込み
+
+https://vuetifyjs.com/ja/getting-started/installation/
+
+cdn版で読み込み
+
 
 ```
 <!DOCTYPE html>
