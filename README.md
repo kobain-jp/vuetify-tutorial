@@ -39,9 +39,18 @@ vuetify-turorial
 
 ### 必要なライブラリの読み込み
 
+だいたいメインページからインストールに進み、cdn版で試す。今回もそのやり方。
+
+https://vuetifyjs.com/ja/
+
 https://vuetifyjs.com/ja/getting-started/installation/
 
-cdn版で読み込み
+cdn版のコードをlogin.htmlにコピペして起動確認
+
+レイアウト
+https://vuetifyjs.com/ja/features/layouts/#section-4f7f304465b9
+
+app.jsに切り出し
 
 
 login.htmlを編集
@@ -55,11 +64,11 @@ login.htmlを編集
     <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
 </head>
-
+〜略〜
 <body>
     <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
-    <script src="app.js"></script>
+M    <script src="app.js"></script>
 </body>
 
 </html>
@@ -67,7 +76,7 @@ login.htmlを編集
 ```
 
 
-app.js
+app.js　に切り出し
 ```
 new Vue({
     el: '#app',
@@ -79,7 +88,7 @@ new Vue({
 
 ### ログイン画面を作る
 
-以下の内容をapp.vueではなく、login.htmlに追記していく
+以下の内容をapp.vueではなく、login.htmlのv-container内に追記していく
 
 https://reffect.co.jp/vue/vuetify-first-time
 
@@ -103,8 +112,7 @@ M       <v-text-field label="パスワード></v-text-field>
 
 ### いろいろいじってみよう
 
-レイアウト
-https://vuetifyjs.com/ja/features/layouts/#section-4f7f304465b9
+
 
 https://vuetifyjs.com/ja/api/vuetify/#section-30b330f330dd30fc30cd30f330c830da30fc30b8
 
