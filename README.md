@@ -110,7 +110,7 @@ https://reffect.co.jp/vue/vuetify-first-time
     <v-card-text>
       <v-form>
 M       <v-text-field label="ユーザ名"></v-text-field>
-M       <v-text-field label="パスワード></v-text-field>
+M       <v-text-field label="パスワード"></v-text-field>
       </v-form>
     </v-card-text>
   </v-card>
