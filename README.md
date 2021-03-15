@@ -8,18 +8,21 @@ https://reffect.co.jp/vue/vuetify-first-time
 
 ### 前提知識
 
-そもそもvuetifyとは？
-
-https://vuetifyjs.com/ja/
-
 マテリアルデザインって何？
+
 https://material.io/design/introduction#theming
 
 マテリアルデザインまでの歴史
+
 https://qiita.com/nogson/items/804dd3a879f482fb7018
 
 マテリアルデザインの実装例
+
 https://sugar.amebaownd.com/posts/357364/
+
+vuetifyって何？
+
+https://vuetifyjs.com/ja/
 
 
 ### 今回実装するログイン画面
