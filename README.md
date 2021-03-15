@@ -103,6 +103,9 @@ M       <v-text-field label="パスワード></v-text-field>
 
 ### いろいろいじってみよう
 
+レイアウト
+https://vuetifyjs.com/ja/features/layouts/#section-4f7f304465b9
+
 https://vuetifyjs.com/ja/api/vuetify/#section-30b330f330dd30fc30cd30f330c830da30fc30b8
 
 
